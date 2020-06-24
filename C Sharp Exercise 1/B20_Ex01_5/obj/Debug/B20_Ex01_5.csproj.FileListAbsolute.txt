@@ -1,0 +1,6 @@
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 1\B20_Ex01_5\bin\Debug\B20_Ex01_5.exe
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 1\B20_Ex01_5\bin\Debug\B20_Ex01_5.pdb
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 1\B20_Ex01_5\obj\Debug\B20_Ex01_5.csprojAssemblyReference.cache
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 1\B20_Ex01_5\obj\Debug\B20_Ex01_5.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 1\B20_Ex01_5\obj\Debug\B20_Ex01_5.exe
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 1\B20_Ex01_5\obj\Debug\B20_Ex01_5.pdb
