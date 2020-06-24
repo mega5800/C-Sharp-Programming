@@ -1,0 +1,6 @@
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache

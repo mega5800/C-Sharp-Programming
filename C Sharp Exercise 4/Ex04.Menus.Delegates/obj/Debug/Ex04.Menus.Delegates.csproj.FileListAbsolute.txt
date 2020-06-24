@@ -1,0 +1,18 @@
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\mega5\Desktop\Projects\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\mega5\Desktop\Projects\temp ex04\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\mega5\Desktop\Projects\temp ex04\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\temp ex04\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\mega5\Desktop\Projects\temp ex04\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\mega5\Desktop\Projects\temp ex04\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\mega5\Desktop\Projects\temp ex04\B20 Ex04 Sharon 323600296 Tomer 205972946\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 4\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 4\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 4\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 4\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 4\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\mega5\Desktop\Projects\C Sharp Exercise 4\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
