@@ -1,0 +1,22 @@
+C:\Users\mega5\Desktop\Projects\B20 Ex05 Sharon 323600296 Tomer 205972946\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\B20 Ex05 Sharon 323600296 Tomer 205972946\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\Projects\B20 Ex05 Sharon 323600296 Tomer 205972946\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csprojAssemblyReference.cache
+C:\Users\mega5\Desktop\Projects\B20 Ex05 Sharon 323600296 Tomer 205972946\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\B20 Ex05 Sharon 323600296 Tomer 205972946\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\B20 Ex05 Sharon 323600296 Tomer 205972946\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\Projects\Ex05 temp\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\Ex05 temp\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\Projects\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csprojAssemblyReference.cache
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\C-Sharp-Exercise-5\Ex05 temp\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\C-Sharp-Exercise-5\Ex05 temp\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\C-Sharp-Exercise-5\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\C-Sharp-Exercise-5\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\C-Sharp-Exercise-5\Ex05 temp\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.pdb

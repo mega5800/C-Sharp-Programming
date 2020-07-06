@@ -1,0 +1,6 @@
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\bin\Release\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\bin\Release\Ex05.MemoryGameLogic.pdb
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Release\Ex05.MemoryGameLogic.csprojAssemblyReference.cache
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Release\Ex05.MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Release\Ex05.MemoryGameLogic.dll
+C:\Users\mega5\Desktop\Projects\Ex05 no pics\Ex05 temp\Ex05.MemoryGameLogic\obj\Release\Ex05.MemoryGameLogic.pdb
